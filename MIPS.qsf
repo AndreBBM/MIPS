@@ -54,34 +54,6 @@ set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_RO
 set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
 set_global_assignment -name VHDL_INPUT_VERSION VHDL_2008
 set_global_assignment -name VHDL_SHOW_LMF_MAPPING_MESSAGES OFF
-set_global_assignment -name SOURCE_FILE MIPS.qsf
-set_global_assignment -name MIF_FILE ROMContent.mif
-set_global_assignment -name VHDL_FILE decoder7seg.vhd
-set_global_assignment -name VHDL_FILE decoderInstru.vhd
-set_global_assignment -name VHDL_FILE somaConstante.vhd
-set_global_assignment -name VHDL_FILE MIPS.vhd
-set_global_assignment -name VHDL_FILE ROMMIPS.vhd
-set_global_assignment -name VHDL_FILE bancoReg.vhd
-set_global_assignment -name VHDL_FILE RAMMIPS.vhd
-set_global_assignment -name VHDL_FILE ULASomaSub.vhd
-set_global_assignment -name VHDL_FILE muxGenerico2x1.vhd
-set_global_assignment -name VHDL_FILE somadorGenerico.vhd
-set_global_assignment -name VHDL_FILE registradorGenerico.vhd
-set_global_assignment -name VHDL_FILE edgeDetector.vhd
-set_global_assignment -name VHDL_FILE ControlUnity.vhd
-set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform.vwf
-set_global_assignment -name VHDL_FILE estendeSinalGenerico.vhd
-set_global_assignment -name VHDL_FILE ShiftLeft2.vhd
-set_global_assignment -name VHDL_FILE ULA_ControlUnity.vhd
-set_global_assignment -name VHDL_FILE LogicaBitUla.vhd
-set_global_assignment -name VHDL_FILE mux2x1Bit.vhd
-set_global_assignment -name VHDL_FILE SomadorCompleto1Bit.vhd
-set_global_assignment -name VHDL_FILE mux4x1Bit.vhd
-set_global_assignment -name VHDL_FILE ULAbitbit.vhd
-set_global_assignment -name VHDL_FILE LogicaBit31Ula.vhd
-set_global_assignment -name VHDL_FILE DecULAopcode.vhd
-set_global_assignment -name VHDL_FILE DecULAfunct.vhd
-set_global_assignment -name VHDL_FILE ULA_ControlUnityV2.vhd
 
 
 
@@ -291,4 +263,35 @@ set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to SW[9]
 #====================================================================
 # Fim da configuraÃ§Ã£o dos pinos utilizados em Design de Computadores.
 #====================================================================
+set_global_assignment -name SOURCE_FILE MIPS.qsf
+set_global_assignment -name MIF_FILE ROMContent.mif
+set_global_assignment -name VHDL_FILE decoder7seg.vhd
+set_global_assignment -name VHDL_FILE decoderInstru.vhd
+set_global_assignment -name VHDL_FILE somaConstante.vhd
+set_global_assignment -name VHDL_FILE MIPS.vhd
+set_global_assignment -name VHDL_FILE ROMMIPS.vhd
+set_global_assignment -name VHDL_FILE bancoReg.vhd
+set_global_assignment -name VHDL_FILE RAMMIPS.vhd
+set_global_assignment -name VHDL_FILE ULASomaSub.vhd
+set_global_assignment -name VHDL_FILE muxGenerico2x1.vhd
+set_global_assignment -name VHDL_FILE somadorGenerico.vhd
+set_global_assignment -name VHDL_FILE registradorGenerico.vhd
+set_global_assignment -name VHDL_FILE edgeDetector.vhd
+set_global_assignment -name VHDL_FILE ControlUnity.vhd
+set_global_assignment -name VHDL_FILE estendeSinalGenerico.vhd
+set_global_assignment -name VHDL_FILE ShiftLeft2.vhd
+set_global_assignment -name VHDL_FILE ULA_ControlUnity.vhd
+set_global_assignment -name VHDL_FILE LogicaBitUla.vhd
+set_global_assignment -name VHDL_FILE mux2x1Bit.vhd
+set_global_assignment -name VHDL_FILE SomadorCompleto1Bit.vhd
+set_global_assignment -name VHDL_FILE mux4x1Bit.vhd
+set_global_assignment -name VHDL_FILE ULAbitbit.vhd
+set_global_assignment -name VHDL_FILE LogicaBit31Ula.vhd
+set_global_assignment -name VHDL_FILE DecULAopcode.vhd
+set_global_assignment -name VHDL_FILE DecULAfunct.vhd
+set_global_assignment -name VHDL_FILE ULA_ControlUnityV2.vhd
+set_global_assignment -name VHDL_FILE LUI.vhd
+set_global_assignment -name VHDL_FILE mux4x1.vhd
+set_global_assignment -name VECTOR_WAVEFORM_FILE output_files/Waveform.vwf
+set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform.vwf
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
