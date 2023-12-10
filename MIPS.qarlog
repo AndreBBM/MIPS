@@ -1,43 +1,43 @@
-Quartus Prime Archive log --	C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/MIPS.qarlog
+Quartus Prime Archive log --	C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.qarlog
 
-Archive:	C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/MIPS.qar
-Date:		Sat Dec 09 12:03:15 2023
+Archive:	C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.qar
+Date:		Sat Dec 09 23:17:22 2023
 Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
 
 	=========== Files Selected: ===========
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/ControlUnity.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/DecULAfunct.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/DecULAopcode.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/LUI.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/LogicaBit31Ula.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/LogicaBitUla.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/MIPS.qpf
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/MIPS.qsf
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/MIPS.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/RAMMIPS.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/ROMContent.mif
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/ROMMIPS.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/ShiftLeft2.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/SomadorCompleto1Bit.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/ULASomaSub.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/ULA_ControlUnity.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/ULA_ControlUnityV2.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/ULAbitbit.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/Waveform.vwf
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/Waveform1.vwf
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/assignment_defaults.qdf
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/bancoReg.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/decoder7seg.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/edgeDetector.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/estendeSinalGenerico.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/mux2x1Bit.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/mux4x1.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/mux4x1Bit.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/muxGenerico2x1.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/registradorGenerico.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/simulation/modelsim/Waveform.vwf
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/somaConstante.vhd
-C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/somadorGenerico.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ControlUnity.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/DecULAfunct.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/DecULAopcode.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/LUI.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/LogicaBit31Ula.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/LogicaBitUla.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.qpf
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.qsf
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/RAMMIPS.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ROMContent.mif
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ROMMIPS.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ShiftLeft2.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/SomadorCompleto1Bit.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULASomaSub.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULA_ControlUnity.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULA_ControlUnityV2.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULAbitbit.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/Waveform.vwf
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/Waveform1.vwf
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/assignment_defaults.qdf
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/bancoReg.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/decoder7seg.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/edgeDetector.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/estendeSinalGenerico.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/mux2x1Bit.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/mux4x1.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/mux4x1Bit.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/muxGenerico2x1.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/registradorGenerico.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/simulation/modelsim/Waveform.vwf
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/somaConstante.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/somadorGenerico.vhd
 	======= Total: 33 files to archive =======
 
 	================ Status: ===============
