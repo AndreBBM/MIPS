@@ -1,7 +1,7 @@
 Quartus Prime Archive log --	C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.qarlog
 
 Archive:	C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.qar
-Date:		Sat Dec 09 23:17:22 2023
+Date:		Sun Dec 10 10:49:51 2023
 Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
 
 	=========== Files Selected: ===========
@@ -18,10 +18,13 @@ C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/RAMMIPS.vhd
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ROMContent.mif
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ROMMIPS.vhd
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ShiftLeft2.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ShiftLeftGenerico.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ShiftRightGenerico.vhd
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/SomadorCompleto1Bit.vhd
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULASomaSub.vhd
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULA_ControlUnity.vhd
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULA_ControlUnityV2.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULA_Pacote.vhd
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULAbitbit.vhd
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/Waveform.vwf
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/Waveform1.vwf
@@ -38,7 +41,7 @@ C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/registradorGenerico.vhd
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/simulation/modelsim/Waveform.vwf
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/somaConstante.vhd
 C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/somadorGenerico.vhd
-	======= Total: 33 files to archive =======
+	======= Total: 36 files to archive =======
 
 	================ Status: ===============
 All files archived successfully.
