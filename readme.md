@@ -1,7 +1,7 @@
 # Processador MIPS Simples
 Este projeto consiste em um processador básico baseado na arquitetura MIPS (Microprocessor without Interlocked Pipeline Stages) implementado em VHDL. O processador suporta apenas parte do conjunto de instruções MIPS para realizar operações simples.  
 A arquitetura completa do processador pode ser visualizada na figura abaixo:  
-![Arquitetura do Processador](MIPS.pdf)
+![Arquitetura do Processador](MIPS.png)
 
 Instruções Suportadas
 O processador suporta as seguintes instruções:
