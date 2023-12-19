@@ -1,0 +1,55 @@
+Quartus Prime Archive log --	C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.qarlog
+
+Archive:	C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.qar
+Date:		Fri Dec 08 12:10:00 2023
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ControlUnity.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/DecULAfunct.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/DecULAopcode.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/LUI.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/LogicaBit31Ula.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/LogicaBitUla.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.qpf
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.qsf
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/MIPS.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/RAMMIPS.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ROMContent.mif
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ROMMIPS.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ShiftLeft2.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/SomadorCompleto1Bit.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULASomaSub.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULA_ControlUnity.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULA_ControlUnityV2.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/ULAbitbit.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/Waveform.vwf
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/assignment_defaults.qdf
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/bancoReg.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/decoder7seg.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/decoderInstru.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/edgeDetector.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/estendeSinalGenerico.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/mux2x1Bit.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/mux4x1.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/mux4x1Bit.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/muxGenerico2x1.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/registradorGenerico.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/somaConstante.vhd
+C:/Descomp/Projeto_MIPS/MIPS/MIPS_restored/somadorGenerico.vhd
+	======= Total: 32 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Dec 08 13:28:43 2023
+Source archive file:	C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/EntregaIntermediariaAndre_Rodrigo/versao_teste_waveform/MIPS.qar
+Archive was extracted into	C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/EntregaIntermediariaAndre_Rodrigo/versao_teste_waveform/MIPS_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Fri Dec 08 15:49:49 2023
+Source archive file:	C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/versao_teste_waveform/MIPS.qar
+Archive was extracted into	C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/versao_teste_waveform/MIPS_restored/
+		 - successfully.

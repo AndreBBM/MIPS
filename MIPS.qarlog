@@ -1,49 +1,57 @@
-Quartus Prime Archive log --	C:/Descomp/MIPS3/MIPS/MIPS.qarlog
+Quartus Prime Archive log --	C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/MIPS.qarlog
 
-Archive:	C:/Descomp/MIPS3/MIPS/MIPS.qar
-Date:		Fri Nov 17 08:22:46 2023
+Archive:	C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/MIPS.qar
+Date:		Tue Dec 12 09:42:24 2023
 Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
 
 	=========== Files Selected: ===========
-C:/Descomp/MIPS3/MIPS/ControlUnity.vhd
-C:/Descomp/MIPS3/MIPS/DecULAfunct.vhd
-C:/Descomp/MIPS3/MIPS/DecULAopcode.vhd
-C:/Descomp/MIPS3/MIPS/LogicaBit31Ula.vhd
-C:/Descomp/MIPS3/MIPS/LogicaBitUla.vhd
-C:/Descomp/MIPS3/MIPS/MIPS.qpf
-C:/Descomp/MIPS3/MIPS/MIPS.qsf
-C:/Descomp/MIPS3/MIPS/MIPS.vhd
-C:/Descomp/MIPS3/MIPS/RAMMIPS.vhd
-C:/Descomp/MIPS3/MIPS/ROMContent.mif
-C:/Descomp/MIPS3/MIPS/ROMMIPS.vhd
-C:/Descomp/MIPS3/MIPS/ShiftLeft2.vhd
-C:/Descomp/MIPS3/MIPS/SomadorCompleto1Bit.vhd
-C:/Descomp/MIPS3/MIPS/ULASomaSub.vhd
-C:/Descomp/MIPS3/MIPS/ULA_ControlUnity.vhd
-C:/Descomp/MIPS3/MIPS/ULA_ControlUnityV2.vhd
-C:/Descomp/MIPS3/MIPS/ULAbitbit.vhd
-C:/Descomp/MIPS3/MIPS/Waveform.vwf
-C:/Descomp/MIPS3/MIPS/bancoReg.vhd
-C:/Descomp/MIPS3/MIPS/decoder7seg.vhd
-C:/Descomp/MIPS3/MIPS/decoderInstru.vhd
-C:/Descomp/MIPS3/MIPS/edgeDetector.vhd
-C:/Descomp/MIPS3/MIPS/estendeSinalGenerico.vhd
-C:/Descomp/MIPS3/MIPS/mux2x1Bit.vhd
-C:/Descomp/MIPS3/MIPS/mux4x1Bit.vhd
-C:/Descomp/MIPS3/MIPS/muxGenerico2x1.vhd
-C:/Descomp/MIPS3/MIPS/registradorGenerico.vhd
-C:/Descomp/MIPS3/MIPS/somaConstante.vhd
-C:/Descomp/MIPS3/MIPS/somadorGenerico.vhd
-c:/intelfpga_lite/20.1/quartus/bin64/assignment_defaults.qdf
-	======= Total: 30 files to archive =======
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ControlUnity.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/DecULAfunct.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/DecULAopcode.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/LUI.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/LogicaBit31Ula.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/LogicaBitUla.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/MIPS.qpf
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/MIPS.qsf
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/MIPS.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/RAMMIPS.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ROMContent.mif
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ROMMIPS.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ShiftLeft2.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ShiftLeftGenerico.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ShiftRightGenerico.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/SimulacaoAeB.mif
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/SimulacaoExtras.mif
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/SomadorCompleto1Bit.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ULASomaSub.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ULA_ControlUnity.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ULA_ControlUnityV2.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ULA_Pacote.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/ULAbitbit.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/Waveform.vwf
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/Waveform1.vwf
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/assignment_defaults.qdf
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/bancoReg.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/decoder7seg.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/edgeDetector.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/estendeSinalGenerico.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/mux2x1Bit.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/mux4x1.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/mux4x1Bit.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/muxGenerico2x1.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/registradorGenerico.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/simulation/modelsim/Waveform.vwf
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/somaConstante.vhd
+C:/Descomp/Final_Revision/EntregaMIPS/EntregaMIPS/MIPS_restored/somadorGenerico.vhd
+	======= Total: 38 files to archive =======
 
 	================ Status: ===============
 All files archived successfully.
 
 
-******* Archived project restoration attempt on Wed Dec 06 13:36:00 2023
-Source archive file:	C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/EntregaIntermediariaAndre_Rodrigo/MIPS.qar
-Archive was extracted into	C:/intelFPGA_lite/EntregaIntermediariaAndre_Rodrigo/EntregaIntermediariaAndre_Rodrigo/MIPS_restored/
+******* Archived project restoration attempt on Tue Dec 12 09:46:29 2023
+Source archive file:	C:/Descomp/Final_Revision/EntregaMIPS/SegundaRodada/EntregaMIPSAndreMeloRodrigoPatelli/EntregaMIPSAndreMeloRodrigoPatelli/MIPS.qar
+Archive was extracted into	C:/Descomp/Final_Revision/EntregaMIPS/SegundaRodada/EntregaMIPSAndreMeloRodrigoPatelli/EntregaMIPSAndreMeloRodrigoPatelli/MIPS_restored/
 		 - successfully.
 
 
